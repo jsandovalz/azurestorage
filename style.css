@@ -1,0 +1,25 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #bd9c9c;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Anonymous Pro', monospace;
+    position: absolute;
+}
+
+.centered-square {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vh;
+    max-height: 100vw;
+    margin: 0 auto;
+}
+h1 {
+    color: rgb(171, 21, 208)
+}
